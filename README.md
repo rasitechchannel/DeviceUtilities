@@ -14,7 +14,7 @@ Exciting news! I'm thrilled to share a new extension I've crafted, named "Device
 
 **Screenshots:**
 
-![blocks (7)|84x500](https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/optimized/4X/f/d/9/fd98cc7360a434ee4f15dc0013b0c83d7b1e7a23_2_84x500.png)
+![blocks (7)|84x500](https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/4X/f/d/9/fd98cc7360a434ee4f15dc0013b0c83d7b1e7a23.png)
 
 
 **Download Link:**
